@@ -118,10 +118,6 @@ logo1 = """
 \033[1;93m░██─▀─██░░█▀█▀▀▀▀█░░█░
 \033[1;93m░███▄███░░▀░▀░░░░░▀▀░░
 
-\033[1;96mBest frien @Saif khan @hassan @malik faizan Love you 💜
-\033[1;96mLove you Bestie @Ayrin_Ruhae💜
-
-\033[1;99mJoin us or hmry pakky waly team members bn jaye 💜
 
 \033[1;96m------------------KHTK💜HACKER----------------------
 
@@ -149,7 +145,7 @@ logo2 = """
     
 \033[0;95m╭════════════════════════════════════════════╮
 \033[0;91m║\033[0;92mAUTHOR : \033[0;92mSAIFULLAH KHAN.                                   
-\033[0;91m║\033[0;91mFB ACC :\033[0;92m "ksaif113"                                                 
+\033[0;91m║\033[0;91mFB ACC :\033[0;92m"ksaif113"                                                 
 \033[0;91m║ \033[0;93mWhtsap:\033[0;91m+923109487886.                                     
 \033[0;95m╰════════════════════════════════════════════╯
 
@@ -159,6 +155,9 @@ logo2 = """
                                                 
 \033[1;96m---------------------KHTK HACKER--------------------
 """
+\033[0;95mFor new paswrd Contact on whatsapp
+\033[0;95m03109487886
+
 CorrectUsername = "saifullah"
 CorrectPassword = "khan"
 
@@ -173,10 +172,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;94mWrong Password"
-            os.system('xdg-open https://m.facebook.com/ksaif113')
+            os.system('xdg-open https://m.facebook.com/100007199374850')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://m.facebook.com/ksaif113')
+        os.system('xdg-open https://m.facebook.com/100007199374850')
 
 
 
