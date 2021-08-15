@@ -158,8 +158,8 @@ logo2 = """
 \033[0;95mFor new paswrd Contact on whatsapp
 \033[0;95m03109487886
 
-CorrectUsername = "saifullah"
-CorrectPassword = "khan"
+CorrectUsername = "Boss"
+CorrectPassword = "jhr"
 
 loop = 'true'
 while (loop == 'true'):
